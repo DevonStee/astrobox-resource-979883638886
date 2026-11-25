@@ -1,0 +1,63 @@
+{
+  "item": {
+    "id": "979883638886",
+    "restype": "watchface",
+    "name": "SEGMENT34",
+    "description": "SEGMENT34_34段码_复古液晶_月相天气\nGarmin热门段码移植, 每次亮屏月相会转半圈停到今天, 日出日落和天气信息都有. 基于 ludw 的 Segment34 MkII（MIT）\n目前支持小米手环 10 / 11（含 NFC）/ 9 Pro / 10 Pro\n更多动态和息屏效果可以去小红书 @叫我Brin就好 看.",
+    "preview": [
+      "media/03-devices.png",
+      "media/04-moon-wake.png",
+      "media/05-aod.png"
+    ],
+    "icon": "media/01-icon.png",
+    "cover": "media/02-cover.png",
+    "author": [
+      {
+        "name": "brin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "在小红书查看动态表盘",
+      "url": "https://xhslink.cn/o/8ierYJqmfrs",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "0.0.8",
+      "file_name": "downloads/Segment34.bin",
+      "versionCode": 8
+    },
+    "xmb10nfc": {
+      "version": "0.0.8",
+      "file_name": "downloads/Segment34.bin",
+      "versionCode": 8
+    },
+    "xmb11": {
+      "version": "0.0.8",
+      "file_name": "downloads/Segment34.bin",
+      "versionCode": 8
+    },
+    "xmb11nfc": {
+      "version": "0.0.8",
+      "file_name": "downloads/Segment34.bin",
+      "versionCode": 8
+    },
+    "xmb9p": {
+      "version": "0.0.8",
+      "file_name": "downloads/Segment34 Pro.bin",
+      "versionCode": 8
+    },
+    "xmb10p": {
+      "version": "0.0.8",
+      "file_name": "downloads/Segment34 Pro.bin",
+      "versionCode": 8
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
